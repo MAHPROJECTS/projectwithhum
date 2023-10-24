@@ -34,3 +34,4 @@ l2.place(x=165, y=130)
 window.mainloop()
 
 print("hiii")
+print("this is so annoying")
